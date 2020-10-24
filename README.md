@@ -1,12 +1,13 @@
 # Game of Life
 
 Space - play / pause simulation
+
 slider controls steps per second
 
-n - go to the next state
-c - clear the board
-g - generate new board
-x - invert brush (mouse) color
+- n - go to the next state
+- c - clear the board
+- g - generate new board
+- x - invert brush (mouse) color
 
 use mouse to draw
 
